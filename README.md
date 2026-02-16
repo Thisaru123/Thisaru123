@@ -57,8 +57,8 @@ I enjoy working on academic projects and improving my practical development skil
 <h2>📫 Connect With Me</h2>
 
 <p>
-GitHub: <a href="https://github.com/your-username">your-username</a> <br>
-Email: your-email@example.com
+GitHub: <a href="https://github.com/Thisaru123">your-username</a> <br>
+Email: your-thisarusandeep2001@gmail.com
 </p>
 
 ---
