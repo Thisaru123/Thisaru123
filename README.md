@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Thisaru Sandeepa</h1>
+<h3 align="center">Bsc Applied Mathematics And Computing</h3>
 
 <p align="center">
-🎓 IT Undergraduate <br>
+🎓 Undergraduate <br>
 💻 Passionate about Web Development & Programming <br>
 📊 Interested in Statistics and Data Analysis <br>
 🚀 Always learning new technologies
